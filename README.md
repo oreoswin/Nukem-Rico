@@ -5,6 +5,8 @@ Files for Nukem modification for Starship Troopers: Terran Command
 One thing that I constantly found my self asking throughout my campaign playthrough was “Where the hell are the nukes?!”
 Now that ive completed my playthrough on brutal, I decided to dive into looking at the game files on how to make modifications.
 
+This mod will make the rocket troopers have the ability to use a tactical nuke at elite status
+
 Before installing, make a backup of your original files!!
 
 Step 1.  Navigate to the folder “C:\Program Files (x86)\Steam\steamapps\common\Starship Troopers - Terran Command\Starship Troopers_Data\StreamingAssets\Data”
