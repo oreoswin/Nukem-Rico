@@ -58,4 +58,4 @@ ability_klendathu_nuke_descr	Shoot a nuke down a bug hole, you got a lot of dead
 
 Save the file.
 
-NOTE:  The game WILL NOT load if ANY the .csv files are currently open by the system, be sure to close them before launching.
+NOTE:  The game WILL NOT load if ANY of the .csv files are currently open by the system, be sure to close them before launching.
