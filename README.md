@@ -3,7 +3,7 @@ Files for Nukem modification for Starship Troopers: Terran Command
 
 [MOD] Nuke em Rico! 
 One thing that I constantly found my self asking throughout my campaign playthrough was “Where the hell are the nukes?!”
-Now that ive completed my playthrough on brutal, I decided to dive into looking at the game files on how to make modifications after tinkering with the demo version.
+Now that ive completed my playthrough on brutal, I decided to dive into looking at the game files on how to make modifications.
 
 Before installing, make a backup of your original files!!
 
